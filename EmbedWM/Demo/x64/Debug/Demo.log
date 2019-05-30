@@ -1,0 +1,6 @@
+﻿  Socket.cpp
+c:\users\jh\desktop\산학연계\demo\demo\socket.cpp(86): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jh\desktop\산학연계\demo\demo\socket.cpp(98): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jh\desktop\산학연계\demo\demo\socket.cpp(193): warning C4172: 지역 변수 또는 임시: iKey의 주소를 반환하고 있습니다.
+c:\users\jh\desktop\산학연계\demo\demo\socket.cpp(232): warning C4172: 지역 변수 또는 임시: iKey의 주소를 반환하고 있습니다.
+  Demo.vcxproj -> C:\Users\JH\Desktop\산학연계\Demo\x64\Debug\Demo.exe

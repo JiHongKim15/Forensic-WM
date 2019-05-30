@@ -1,0 +1,19 @@
+﻿  BitBuffer.cpp
+  DWT.cpp
+c:\users\jh\desktop\산학연계\demo\demo\dwt.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  Embed.cpp
+c:\users\jh\desktop\산학연계\demo\demo\headers.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  Headers.cpp
+c:\users\jh\desktop\산학연계\demo\demo\headers.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  Main.cpp
+c:\users\jh\desktop\산학연계\demo\demo\qrmain.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  QrCode.cpp
+  QrCodeGenerator.cpp
+c:\users\jh\desktop\산학연계\demo\demo\qrcodegenerator.cpp(10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core.hpp': No such file or directory
+  QrCodeGeneratorWorker.cpp
+c:\users\jh\desktop\산학연계\demo\demo\qrcodegeneratorworker.cpp(71): warning C4101: 'ex' :참조되지 않은 지역 변수입니다.
+  QrSegment.cpp
+  Socket.cpp
+  코드를 생성하고 있습니다...
+c:\users\jh\desktop\산학연계\demo\demo\socket.cpp(106): warning C4172: 지역 변수 또는 임시: iKey의 주소를 반환하고 있습니다.
+c:\users\jh\desktop\산학연계\demo\demo\socket.cpp(67): warning C4172: 지역 변수 또는 임시: iKey의 주소를 반환하고 있습니다.
